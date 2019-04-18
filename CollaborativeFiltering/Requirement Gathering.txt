@@ -1,0 +1,18 @@
+1) Data Collection - How the data is downloaded from Twitter? In which form does it be available? What data features are there?
+
+2) Data Preprocessing :
+
+1) Case Normalisation = Entire documents or sentences are converted from upper case to lower case.
+
+2) Tokenisation:
+
+Document is split into sentences. Sentenses may divide into words by removing sertain punctuation marks, the splitted words are now tokens.
+
+3) Stop word removing:
+Remove common words
+
+4) Root steming:;
+Words are reduced to their stems:
+For example Carefully to Care
+
+5)
